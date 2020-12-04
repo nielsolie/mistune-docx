@@ -33,3 +33,5 @@ The command requests:
 ## Requirements
 
 This tool has been tested with Python 3.5. See _requirements.txt_ for all the libraries dependencies.
+
+For Windows download and install [MiKTex](https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x64/basic-miktex-20.11-x64.exe)
